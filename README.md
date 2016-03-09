@@ -11,8 +11,8 @@ open your terminal :
 run this command for start the app : BOT_API_KEY=your_api_key node bin/bot.js om linux ou mac 
                                      set BOT_API_KEY=your_api_key & node bin/bot.js on windows 
  
-# Deploy the NorrisBot on Heroku
-1 install git and the Heroku toolbelt on your machine.
+# Deploy the NorrisBot on <a href="www.heroku.com">heroku</a>
+1 install git and the <a href="www.heroku.com">heroku</a> toolbelt on your machine.
 2 First thing to do is to create a new Heroku app. Select a unique name for your app and a region and click on the “Create App” button.
 3 Then you need to go on your app settings tab and configure your environment variables.
 4 git push heroku master.
